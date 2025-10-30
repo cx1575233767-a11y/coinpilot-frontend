@@ -1,0 +1,160 @@
+{
+  "common": {
+    "loading": "載入中...",
+    "error": "錯誤",
+    "success": "成功",
+    "cancel": "取消",
+    "confirm": "確認",
+    "save": "儲存",
+    "delete": "刪除",
+    "edit": "編輯",
+    "close": "關閉",
+    "back": "返回",
+    "next": "下一步",
+    "previous": "上一步",
+    "search": "搜尋",
+    "filter": "篩選",
+    "refresh": "重新整理",
+    "copy": "複製",
+    "copied": "已複製"
+  },
+  "nav": {
+    "dashboard": "儀表板",
+    "signals": "訊號",
+    "kline": "K線圖",
+    "pricing": "購買Pro",
+    "referrals": "推薦中心",
+    "settings": "設定",
+    "account": "帳戶",
+    "signOut": "登出"
+  },
+  "landing": {
+    "title": "CoinPilot Dashboard",
+    "subtitle": "AI驅動的加密貨幣交易訊號平台",
+    "description": "獲取即時AI預測訊號，優化您的交易策略",
+    "getStarted": "開始使用",
+    "signIn": "登入",
+    "learnMore": "了解更多",
+    "features": {
+      "title": "核心功能",
+      "aiSignals": "AI訊號預測",
+      "aiSignalsDesc": "基於機器學習的交易訊號分析",
+      "realtime": "即時資料",
+      "realtimeDesc": "即時K線資料和市場分析",
+      "automation": "自動化排程",
+      "automationDesc": "定時批次訊號生成和通知"
+    },
+    "pricing": {
+      "title": "選擇您的方案",
+      "free": "免費版",
+      "pro": "專業版",
+      "monthly": "每月",
+      "getStarted": "開始使用",
+      "upgrade": "升級到Pro"
+    }
+  },
+  "auth": {
+    "signIn": "登入",
+    "signUp": "註冊",
+    "signInWithEmail": "使用電子郵件登入",
+    "signInWithGoogle": "使用Google登入",
+    "email": "電子郵件",
+    "password": "密碼",
+    "forgotPassword": "忘記密碼？",
+    "noAccount": "還沒有帳戶？",
+    "hasAccount": "已有帳戶？",
+    "createAccount": "建立帳戶",
+    "signInNow": "立即登入"
+  },
+  "dashboard": {
+    "welcome": "歡迎回來",
+    "overview": "概覽",
+    "interval": "時間間隔",
+    "theme": "主題",
+    "language": "語言",
+    "light": "淺色",
+    "dark": "深色",
+    "system": "跟隨系統"
+  },
+  "signals": {
+    "title": "交易訊號",
+    "symbol": "幣種",
+    "direction": "方向",
+    "entry": "入場價",
+    "stopLoss": "止損",
+    "takeProfit": "止盈",
+    "leverage": "槓桿",
+    "confidence": "信心度",
+    "reason": "理由",
+    "timestamp": "時間",
+    "long": "做多",
+    "short": "做空",
+    "noData": "暫無資料",
+    "fetchError": "獲取訊號失敗",
+    "controls": {
+      "title": "排程控制",
+      "start": "啟動排程",
+      "stop": "停止排程",
+      "testTelegram": "測試Telegram",
+      "startSuccess": "排程已啟動",
+      "stopSuccess": "排程已停止",
+      "telegramSuccess": "Telegram測試訊息已發送"
+    }
+  },
+  "kline": {
+    "title": "K線圖表",
+    "selectSymbol": "選擇幣種",
+    "selectInterval": "選擇時間框",
+    "aiPrediction": "AI預測",
+    "noPrediction": "暫無預測資料",
+    "fetchError": "獲取K線資料失敗"
+  },
+  "pricing": {
+    "title": "選擇您的方案",
+    "subtitle": "選擇最適合您的方案",
+    "free": {
+      "name": "免費版",
+      "price": "NT$0",
+      "period": "永久免費",
+      "features": ["基礎訊號查看", "有限歷史資料", "社群支援"]
+    },
+    "pro": {
+      "name": "專業版",
+      "price": "NT$450",
+      "period": "每月",
+      "features": ["無限訊號存取", "完整歷史資料", "排程控制", "Telegram通知", "優先支援", "進階圖表功能"],
+      "cta": "升級到Pro"
+    }
+  },
+  "referrals": {
+    "title": "推薦中心",
+    "myCode": "我的推薦碼",
+    "totalReferrals": "推薦總數",
+    "copyLink": "複製推薦連結",
+    "linkCopied": "推薦連結已複製",
+    "howItWorks": "如何運作",
+    "step1": "分享您的推薦連結",
+    "step2": "好友透過連結註冊",
+    "step3": "獲得獎勵"
+  },
+  "account": {
+    "title": "帳戶設定",
+    "email": "電子郵件",
+    "plan": "目前方案",
+    "planFree": "免費版",
+    "planPro": "專業版",
+    "expiresAt": "到期時間",
+    "manageSubscription": "管理訂閱",
+    "noExpiry": "無到期時間"
+  },
+  "settings": {
+    "title": "設定",
+    "appearance": "外觀",
+    "language": "語言",
+    "theme": "主題",
+    "preferences": "偏好設定",
+    "timeFormat": "時間格式",
+    "12hour": "12小時制",
+    "24hour": "24小時制"
+  }
+}

@@ -1,0 +1,160 @@
+{
+  "common": {
+    "loading": "加载中...",
+    "error": "错误",
+    "success": "成功",
+    "cancel": "取消",
+    "confirm": "确认",
+    "save": "保存",
+    "delete": "删除",
+    "edit": "编辑",
+    "close": "关闭",
+    "back": "返回",
+    "next": "下一步",
+    "previous": "上一步",
+    "search": "搜索",
+    "filter": "筛选",
+    "refresh": "刷新",
+    "copy": "复制",
+    "copied": "已复制"
+  },
+  "nav": {
+    "dashboard": "仪表盘",
+    "signals": "信号",
+    "kline": "K线图",
+    "pricing": "购买Pro",
+    "referrals": "推荐中心",
+    "settings": "设置",
+    "account": "账户",
+    "signOut": "退出登录"
+  },
+  "landing": {
+    "title": "CoinPilot Dashboard",
+    "subtitle": "AI驱动的加密货币交易信号平台",
+    "description": "获取实时AI预测信号，优化您的交易策略",
+    "getStarted": "开始使用",
+    "signIn": "登录",
+    "learnMore": "了解更多",
+    "features": {
+      "title": "核心功能",
+      "aiSignals": "AI信号预测",
+      "aiSignalsDesc": "基于机器学习的交易信号分析",
+      "realtime": "实时数据",
+      "realtimeDesc": "实时K线数据和市场分析",
+      "automation": "自动化调度",
+      "automationDesc": "定时批量信号生成和通知"
+    },
+    "pricing": {
+      "title": "选择您的计划",
+      "free": "免费版",
+      "pro": "专业版",
+      "monthly": "每月",
+      "getStarted": "开始使用",
+      "upgrade": "升级到Pro"
+    }
+  },
+  "auth": {
+    "signIn": "登录",
+    "signUp": "注册",
+    "signInWithEmail": "使用邮箱登录",
+    "signInWithGoogle": "使用Google登录",
+    "email": "邮箱",
+    "password": "密码",
+    "forgotPassword": "忘记密码？",
+    "noAccount": "还没有账户？",
+    "hasAccount": "已有账户？",
+    "createAccount": "创建账户",
+    "signInNow": "立即登录"
+  },
+  "dashboard": {
+    "welcome": "欢迎回来",
+    "overview": "概览",
+    "interval": "时间间隔",
+    "theme": "主题",
+    "language": "语言",
+    "light": "浅色",
+    "dark": "深色",
+    "system": "跟随系统"
+  },
+  "signals": {
+    "title": "交易信号",
+    "symbol": "币种",
+    "direction": "方向",
+    "entry": "入场价",
+    "stopLoss": "止损",
+    "takeProfit": "止盈",
+    "leverage": "杠杆",
+    "confidence": "信心度",
+    "reason": "理由",
+    "timestamp": "时间",
+    "long": "做多",
+    "short": "做空",
+    "noData": "暂无数据",
+    "fetchError": "获取信号失败",
+    "controls": {
+      "title": "调度控制",
+      "start": "启动调度",
+      "stop": "停止调度",
+      "testTelegram": "测试Telegram",
+      "startSuccess": "调度已启动",
+      "stopSuccess": "调度已停止",
+      "telegramSuccess": "Telegram测试消息已发送"
+    }
+  },
+  "kline": {
+    "title": "K线图表",
+    "selectSymbol": "选择币种",
+    "selectInterval": "选择时间框",
+    "aiPrediction": "AI预测",
+    "noPrediction": "暂无预测数据",
+    "fetchError": "获取K线数据失败"
+  },
+  "pricing": {
+    "title": "选择您的计划",
+    "subtitle": "选择最适合您的计划",
+    "free": {
+      "name": "免费版",
+      "price": "¥0",
+      "period": "永久免费",
+      "features": ["基础信号查看", "有限历史数据", "社区支持"]
+    },
+    "pro": {
+      "name": "专业版",
+      "price": "¥99",
+      "period": "每月",
+      "features": ["无限信号访问", "完整历史数据", "调度控制", "Telegram通知", "优先支持", "高级图表功能"],
+      "cta": "升级到Pro"
+    }
+  },
+  "referrals": {
+    "title": "推荐中心",
+    "myCode": "我的推荐码",
+    "totalReferrals": "推荐总数",
+    "copyLink": "复制推荐链接",
+    "linkCopied": "推荐链接已复制",
+    "howItWorks": "如何运作",
+    "step1": "分享您的推荐链接",
+    "step2": "好友通过链接注册",
+    "step3": "获得奖励"
+  },
+  "account": {
+    "title": "账户设置",
+    "email": "邮箱",
+    "plan": "当前计划",
+    "planFree": "免费版",
+    "planPro": "专业版",
+    "expiresAt": "到期时间",
+    "manageSubscription": "管理订阅",
+    "noExpiry": "无到期时间"
+  },
+  "settings": {
+    "title": "设置",
+    "appearance": "外观",
+    "language": "语言",
+    "theme": "主题",
+    "preferences": "偏好设置",
+    "timeFormat": "时间格式",
+    "12hour": "12小时制",
+    "24hour": "24小时制"
+  }
+}
