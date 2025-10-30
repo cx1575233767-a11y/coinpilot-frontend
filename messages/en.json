@@ -1,0 +1,167 @@
+{
+  "common": {
+    "loading": "Loading...",
+    "error": "Error",
+    "success": "Success",
+    "cancel": "Cancel",
+    "confirm": "Confirm",
+    "save": "Save",
+    "delete": "Delete",
+    "edit": "Edit",
+    "close": "Close",
+    "back": "Back",
+    "next": "Next",
+    "previous": "Previous",
+    "search": "Search",
+    "filter": "Filter",
+    "refresh": "Refresh",
+    "copy": "Copy",
+    "copied": "Copied"
+  },
+  "nav": {
+    "dashboard": "Dashboard",
+    "signals": "Signals",
+    "kline": "K-Line",
+    "pricing": "Get Pro",
+    "referrals": "Referrals",
+    "settings": "Settings",
+    "account": "Account",
+    "signOut": "Sign Out"
+  },
+  "landing": {
+    "title": "CoinPilot Dashboard",
+    "subtitle": "AI-Powered Cryptocurrency Trading Signals",
+    "description": "Get real-time AI prediction signals to optimize your trading strategy",
+    "getStarted": "Get Started",
+    "signIn": "Sign In",
+    "learnMore": "Learn More",
+    "features": {
+      "title": "Core Features",
+      "aiSignals": "AI Signal Prediction",
+      "aiSignalsDesc": "Machine learning-based trading signal analysis",
+      "realtime": "Real-time Data",
+      "realtimeDesc": "Live K-line data and market analysis",
+      "automation": "Automation Scheduling",
+      "automationDesc": "Scheduled batch signal generation and notifications"
+    },
+    "pricing": {
+      "title": "Choose Your Plan",
+      "free": "Free",
+      "pro": "Pro",
+      "monthly": "per month",
+      "getStarted": "Get Started",
+      "upgrade": "Upgrade to Pro"
+    }
+  },
+  "auth": {
+    "signIn": "Sign In",
+    "signUp": "Sign Up",
+    "signInWithEmail": "Sign in with Email",
+    "signInWithGoogle": "Sign in with Google",
+    "email": "Email",
+    "password": "Password",
+    "forgotPassword": "Forgot password?",
+    "noAccount": "Don't have an account?",
+    "hasAccount": "Already have an account?",
+    "createAccount": "Create Account",
+    "signInNow": "Sign in now"
+  },
+  "dashboard": {
+    "welcome": "Welcome back",
+    "overview": "Overview",
+    "interval": "Interval",
+    "theme": "Theme",
+    "language": "Language",
+    "light": "Light",
+    "dark": "Dark",
+    "system": "System"
+  },
+  "signals": {
+    "title": "Trading Signals",
+    "symbol": "Symbol",
+    "direction": "Direction",
+    "entry": "Entry",
+    "stopLoss": "Stop Loss",
+    "takeProfit": "Take Profit",
+    "leverage": "Leverage",
+    "confidence": "Confidence",
+    "reason": "Reason",
+    "timestamp": "Time",
+    "long": "LONG",
+    "short": "SHORT",
+    "noData": "No data available",
+    "fetchError": "Failed to fetch signals",
+    "controls": {
+      "title": "Scheduler Controls",
+      "start": "Start Scheduler",
+      "stop": "Stop Scheduler",
+      "testTelegram": "Test Telegram",
+      "startSuccess": "Scheduler started",
+      "stopSuccess": "Scheduler stopped",
+      "telegramSuccess": "Telegram test message sent"
+    }
+  },
+  "kline": {
+    "title": "K-Line Chart",
+    "selectSymbol": "Select Symbol",
+    "selectInterval": "Select Interval",
+    "aiPrediction": "AI Prediction",
+    "noPrediction": "No prediction data available",
+    "fetchError": "Failed to fetch K-line data"
+  },
+  "pricing": {
+    "title": "Choose Your Plan",
+    "subtitle": "Select the plan that works best for you",
+    "free": {
+      "name": "Free",
+      "price": "$0",
+      "period": "Forever free",
+      "features": ["Basic signal viewing", "Limited historical data", "Community support"]
+    },
+    "pro": {
+      "name": "Pro",
+      "price": "$15",
+      "period": "per month",
+      "features": [
+        "Unlimited signal access",
+        "Full historical data",
+        "Scheduler controls",
+        "Telegram notifications",
+        "Priority support",
+        "Advanced chart features"
+      ],
+      "cta": "Upgrade to Pro"
+    }
+  },
+  "referrals": {
+    "title": "Referral Center",
+    "myCode": "My Referral Code",
+    "totalReferrals": "Total Referrals",
+    "copyLink": "Copy Referral Link",
+    "linkCopied": "Referral link copied",
+    "howItWorks": "How It Works",
+    "step1": "Share your referral link",
+    "step2": "Friends sign up via your link",
+    "step3": "Earn rewards"
+  },
+  "account": {
+    "title": "Account Settings",
+    "email": "Email",
+    "plan": "Current Plan",
+    "planFree": "Free",
+    "planPro": "Pro",
+    "expiresAt": "Expires At",
+    "manageSubscription": "Manage Subscription",
+    "noExpiry": "No expiry"
+  },
+  "settings": {
+    "title": "Settings",
+    "appearance": "Appearance",
+    "language": "Language",
+    "theme": "Theme",
+    "preferences": "Preferences",
+    "timeFormat": "Time Format",
+    "12hour": "12-hour",
+    "24hour": "24-hour"
+  }
+}
